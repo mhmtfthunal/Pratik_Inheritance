@@ -1,4 +1,4 @@
-# Pratik - Inheritance (Kalıtım) Uygulaması
+# Pratik - Inheritance
 
 Bu çalışma, nesne tabanlı programlamada (OOP) kalıtım (inheritance) kavramını pekiştirmek amacıyla oluşturulmuştur. "BaseKisi" adında bir temel sınıf (base class) tanımlanarak, "Ogretmen" ve "Ogrenci" adlarında iki alt sınıf (derived class) bu sınıftan türetilmiştir.
 
